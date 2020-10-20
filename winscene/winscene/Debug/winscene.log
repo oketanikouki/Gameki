@@ -1,0 +1,8 @@
+﻿  GameL_Main.cpp
+C:\Users\souhu\Desktop\Gameki\winscene\winscene\GameL\GameL_Main.cpp(98,45): error C2059: 構文エラー: ')'
+  Winscene.cpp
+C:\Users\souhu\Desktop\Gameki\winscene\winscene\GameL\SceneObjManager.h(4,1): warning C4005: '_SECURE_SCL': マクロが再定義されました。
+C:\Users\souhu\Desktop\Gameki\winscene\winscene\Winscene.cpp(2): message : '_SECURE_SCL' の以前の定義を確認してください
+C:\Users\souhu\Desktop\Gameki\winscene\winscene\GameL\SceneObjManager.h(5,1): warning C4005: '_HAS_ITERATOR_DEBUGGING': マクロが再定義されました。
+C:\Users\souhu\Desktop\Gameki\winscene\winscene\Winscene.cpp(3): message : '_HAS_ITERATOR_DEBUGGING' の以前の定義を確認してください
+  コードを生成中...
